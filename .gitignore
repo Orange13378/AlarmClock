@@ -1,26 +1,3 @@
 
-ExportedObj/
-*.svd
-*.userprefs
-/*.csproj
-*.pidb
-*.suo
-/*.sln
-*.user
-*.unityproj
-*.booproj
-
-
 Library/
 Temp/
-Obj/
-UnityGenerated/
-
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-Icon?
-ehthumbs.db
-Thumbs.db
